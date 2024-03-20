@@ -1,3 +1,3 @@
 
 
-Legally binding MIT license applied to any code or work posted here.
+Legally binding MIT license applies to any code or work posted here.
